@@ -33,7 +33,7 @@ We split our project in different parts, which had different goals:
 
 - Parking 
 	- Finding a parking thanks to an address or a GPS position 
-- 
+
   
 
 
