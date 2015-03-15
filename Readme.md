@@ -1,10 +1,10 @@
 
-Notre projet était de modéliser un système de transport intelligent (ITS) et plus particulièrement un GPS portatif. 
-Nous devions analyser les besoins du système d’information et réaliser une solution informatique. 
+Notre projet était de modéliser un ITS (Intelligent Transport System). 
+Nous devions analyser les besoins de l'utilisateur et réaliser une solution informatique. 
 Nous avions découpé le projet en plusieurs parties, dont les principales missions sont ci-dessous : 
 
 - Consommation
-	- Connaitre la consommation moyenne à partir d’une base de trajet    connus
+	- Connaitre la consommation moyenne à partir d’une base de trajet connus
 
 - Consommation Variante
 	 - Comparaison consommation constructeur et enregistrées
@@ -17,4 +17,23 @@ Nous avions découpé le projet en plusieurs parties, dont les principales missi
 
 - Stationnements
 	 - Trouver un parking avec une adresse ou un positionnement GPS
+	 
+
+Our project was to develop an ITS (Intelligent Transport System).
+We had to analyse users's needs and develop an application. 
+We split our project in different parts, which had different goals: 
+ - Consumption 
+ 	- Knowing the average consommation from known paths
+ 	
+ - Variant consumption
+ 	- Comparing official consumption and real ones
+ 	
+-  Route 
+	- Traffic statistics in a section of a road
+
+- Parking 
+	- Finding a parking thanks to an address or a GPS position 
+- 
+  
+
 
